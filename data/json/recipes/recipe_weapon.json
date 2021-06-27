@@ -876,7 +876,7 @@
     "time": "14 m",
     "reversible": true,
     "autolearn": true,
-    "qualities": [ { "id": "SAW_ME", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
+    "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
     "components": [ [ [ "pipe", 1 ] ], [ [ "scrap", 2 ] ], [ [ "2x4", 1 ] ] ]
   },
   {
